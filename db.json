@@ -1,9 +1,33 @@
 {
     "templates": [
-        {"id": 2}
+        {
+            "files":[
+                {
+                    "name":"policy1",
+                    "content":"Hello"
+                },
+                {
+                    "name":"policy2",
+                    "content":"World"
+                }
+            ]
+        }
+    ],
+    "templates/custom": [
+        {
+            "files":[
+                {
+                    "name":"custompolicy1",
+                    "content":"Hello"
+                },
+                {
+                    "name":"custompolicy2",
+                    "content":"World"
+                }
+            ]
+        }
     ],
     "profile": {
       "name": "typicode"
     }
-  
 }
