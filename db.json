@@ -26,5 +26,9 @@
                 }
             ]
         }
-    ]
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  
 }
